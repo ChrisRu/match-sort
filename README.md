@@ -1,7 +1,7 @@
 <div align="center">
   <h1>match-sorter</h1>
 
-  <p>Simple, expected, and deterministic best-match sorting of an array in JavaScript</p>
+  <p>Simple, expected, and deterministic best-match sorting of an array in Go Lang</p>
 </div>
 
 ## The problem
