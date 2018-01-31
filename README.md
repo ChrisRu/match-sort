@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>match-sorter</h1>
+  <h1>match-sorter</h1>
 
-    <p>Simple, expected, and deterministic best-match sorting of an array in JavaScript</p>
+  <p>Simple, expected, and deterministic best-match sorting of an array in JavaScript</p>
 </div>
-<hr />
+
 ## The problem
 
 1. You have a list of dozens, hundreds, or thousands of items
